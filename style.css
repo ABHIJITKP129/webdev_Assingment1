@@ -10,7 +10,7 @@ h4{
     font-weight: 500;
 }
 
-.h1Span{
+Span{
     color:rgb(8, 145, 199)
 
 }
@@ -34,7 +34,7 @@ section{
     background-position: right bottom, left top;
     background-attachment: local;
     padding : 1% ;
-    margin-bottom =150px;
+    margin-bottom : 150px;
 }
 
 .order_food_button{
@@ -45,3 +45,79 @@ section{
     border-radius: 15px;
     color: whitesmoke;
 }
+
+
+/*Adding things from the test file */
+
+div.polaroid {
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    
+    border: 2px solid white ;
+    border-radius: 25px;
+  
+    margin-left : 5% ;
+    padding : 1% ;
+  }
+  
+  img{
+    border: 2px solid white ;
+    border-radius: 25px;
+  }
+  
+  /*div.container {
+    padding: 10px;
+  }*/
+  
+  /*section{
+   display : flex ;
+   margin-bottom : 100px ;
+  }*/
+  
+  .center_property{
+        text-align: center;
+        margin-bottom: 5%;
+  }
+  footer{
+  background-color: black;
+  }
+  
+  #Footer_tagline{
+      color : white;
+      text-align: center;
+      padding-top : 3% ;
+  }
+  
+  #quote{
+      color : white;
+      text-align: center;
+      padding-bottom : 3% 
+  }
+  /*span{
+      color: Blue;
+  }*/
+  
+  .social_media_info{
+    display : flex;
+    border: 2px solid white ;
+    border-radius: 15px; 
+    margin: 10%;
+  
+  }
+  
+  .one_third_width{
+  
+      width:25%;
+      float: left;
+      margin-left: 5%;
+      padding-left: 2%;
+  }
+  
+  div.social_media_class {
+    width: 900px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+    border: 1px solid white ;
+    border-radius: 15px;
+  }
